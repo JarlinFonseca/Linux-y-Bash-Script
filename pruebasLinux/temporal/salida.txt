@@ -1,0 +1,22 @@
+total 60
+drwxrwxr-x 2 jarlinfonseca jarlinfonseca  4096 ago  2 08:53 .
+drwxr-xr-x 3 jarlinfonseca jarlinfonseca  4096 ago  2 08:18 ..
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca     0 ago  2 08:53 archivo1.txt
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca     0 ago  2 08:53 archivo2.txt
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca  4009 ago  2 08:28 quijote.txt
+-rw-r--r-- 1 jarlinfonseca jarlinfonseca 16384 ago  2 08:28 .quijote.txt.swn
+-rw------- 1 jarlinfonseca jarlinfonseca 16384 ago  2 08:26 .quijote.txt.swo
+-rw------- 1 jarlinfonseca jarlinfonseca 16384 ago  2 08:25 .quijote.txt.swp
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca     0 ago  2 08:53 salida.txt
+.:
+total 68K
+drwxrwxr-x 2 jarlinfonseca jarlinfonseca 4,0K ago  2 09:00 .
+drwxr-xr-x 3 jarlinfonseca jarlinfonseca 4,0K ago  2 08:18 ..
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca    0 ago  2 08:53 archivo1.txt
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca    0 ago  2 08:53 archivo2.txt
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca  106 ago  2 09:02 errores.log
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca 4,0K ago  2 08:28 quijote.txt
+-rw-r--r-- 1 jarlinfonseca jarlinfonseca  16K ago  2 08:28 .quijote.txt.swn
+-rw------- 1 jarlinfonseca jarlinfonseca  16K ago  2 08:26 .quijote.txt.swo
+-rw------- 1 jarlinfonseca jarlinfonseca  16K ago  2 08:25 .quijote.txt.swp
+-rw-rw-r-- 1 jarlinfonseca jarlinfonseca  654 ago  2 08:53 salida.txt
