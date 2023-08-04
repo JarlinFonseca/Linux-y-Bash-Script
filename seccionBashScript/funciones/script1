@@ -1,0 +1,5 @@
+#!/bin/bash
+suma(){
+    local resultado=$(($1+$2))
+    echo $resultado
+}
